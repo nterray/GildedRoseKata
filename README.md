@@ -18,6 +18,8 @@ First an introduction to our system:
 However, as usual, the original developers have left and there’s no reliable
 document about the business rules. You’ll have to go with the code...
 
-Do you think it is possible to fully respect all 9 rules of Object Calisthenics?
+~~~
 
 This is an adaption of the Gilded Rose kata, with "total" test coverage. It can be used to practice Object Calisthenics
+Do you think it is possible to fully respect all 9 rules?
+
